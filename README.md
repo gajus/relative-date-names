@@ -1,9 +1,6 @@
 # relative-date-names 📅
 
-[![Travis build status](http://img.shields.io/travis/gajus/relative-date-names/master.svg?style=flat-square)](https://travis-ci.org/gajus/relative-date-names)
-[![Coveralls](https://img.shields.io/coveralls/gajus/relative-date-names.svg?style=flat-square)](https://coveralls.io/github/gajus/relative-date-names)
 [![NPM version](http://img.shields.io/npm/v/relative-date-names.svg?style=flat-square)](https://www.npmjs.org/package/relative-date-names)
-[![Canonical Code Style](https://img.shields.io/badge/code%20style-canonical-blue.svg?style=flat-square)](https://github.com/gajus/canonical)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kuizinas.svg?style=social&label=Follow)](https://twitter.com/kuizinas)
 
 Dictionary for yesterday, today and tomorrow.
