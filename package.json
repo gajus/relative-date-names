@@ -1,0 +1,37 @@
+{
+  "author": {
+    "email": "gajus@gajus.com",
+    "name": "Gajus Kuizinas",
+    "url": "http://gajus.com"
+  },
+  "ava": {
+    "files": [
+      "test/**/*"
+    ],
+    "helpers": [
+      "test/helpers/**/*"
+    ],
+    "require": [
+      "@babel/register"
+    ],
+    "sources": [
+      "src/**/*"
+    ]
+  },
+  "description": "Dictionary for yesterday, today and tomorrow.",
+  "keywords": [
+    "relative",
+    "date",
+    "yesterday",
+    "today",
+    "tomorrow"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "./src/index",
+  "name": "relative-date-names",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gajus/relative-date-names"
+  },
+  "version": "1.0.2"
+}
