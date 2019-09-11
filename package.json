@@ -27,7 +27,7 @@
     "tomorrow"
   ],
   "license": "BSD-3-Clause",
-  "main": "./src/index",
+  "main": "./src/dictionary",
   "name": "relative-date-names",
   "repository": {
     "type": "git",
